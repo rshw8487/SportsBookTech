@@ -10,3 +10,17 @@ Please navigate to "Section A – Simple Programming Task" documentation to chec
  https://github.com/rshw8487/SportsBookTechQATask/tree/master/src/main/java/SectionB
  
  # Case 2 : Performance
+ 
+Without any implementation needed, how would you execute the following different types of performance tests on
+any endpoint of your choosing?
+• Load testing,
+• Stress testing,
+• Endurance testing,
+• Spike testing,
+• Volume testing, and
+• Scalability testing.
+
+How would you store your result set, what KPI’s would you be after, and how could you make the tests consistently
+reproducible on demand? 
+
+ # Solution:

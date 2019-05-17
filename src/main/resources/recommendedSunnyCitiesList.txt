@@ -1,0 +1,62 @@
+Sunny city advice 1
+Name : Clementine
+City : Oekefan
+Country : ID
+Gross Annual Income : 68803.38 IDR
+Gross Annual Income in EUR : 4.254702 EUR
+Weekly Income in EUR : 0 EUR
+Person is not in sunny city
+Recommended sunny city/cities: 
+Lavaltrie,Limoges,La Calera,Veinticinco de Mayo,Guamo,Miaoxi,Saint-Égrève,Vanves,Beicheng,Kose,Joaçaba,Xiaoying,Stockholm,Peresvet,Pueblo Nuevo,Sixi,Xicun,Longju,Nagasari,Kirkuk,Mhlume,Stari Grad,Herrera,Dinskaya,Montepuez,Washington,Dayan,Greensboro,Yangdu,Syamzha,Temirtau,Santa Maria,Sergokala,Kingscourt,Donskoy,Velikovechnoye,Oslo,Beicheng,Makata,Ostrov,Le Raincy,Timiryazevskiy,Stavanger,Bao’an,Steinkjer,Huangfang,Licun,Berezanka,Chipinge,Troitskoye,Xinzhan,Saint Joseph,Al Mushannaf,Kwekwe,Saint-Laurent-Blangy,Waishan,Erdaobaihe,Qiaotou,Longwy,Linxi,Núi Đối,Sicheng,El Copey,Toul,Yaozhuang,Mayakovski,Florencio Sánchez,Francisco Villa,Alanga,Gardanne,Saint-Augustin,Sel’tso,Ludvika,Mazongshan,Shibganj,Manyana,Massy,La Poma,Wuyang,Göteborg,El Soberbio,Changshou,Santa Maria,Huarancante,Estância Velha,Newbiggin,Gjirokastër,Yenangyaung,Aibura,Dingli,Pleshanovo,Västerås,Tangnan,Chengjiang,Valence,Châteaurenard,Nogent-sur-Marne,Shangqing,Oravais,Orlu,Cadiz,Landivisiau,Huashu,Södertälje,Dallas,Saint-Étienne-du-Rouvray,General Elizardo Aquino,Sydney,Mengxi,Harrisburg,Bernal,Halden,Évreux,Porecatu,Gravataí,Laramate,Yutou,El Alto,Schaan,Luotaping,Xinglong,Artashat,Ambato Boeny,Yafran,Khoa,Uppsala,Binzhou,Yangping,Orlando,High Point,Hondo,Temirtau,Shangde,Heishan,Baita,Melville,Peabiru,Wichita,Wilmington,Naji,Ramana,Bobigny,Öjebyn,Jianshan,Aberdeen,Blantyre,San Bautista,Verrettes,Naranjal,Vryburg,Daishan,Srinjine,Kinh Môn,Ostrov,Zhukovka,Baima,Jindong,Volzhsk,Konstantinovskoye,Garibaldi,Strasbourg,Kimry,Richard-Toll,Puutuga,Liuzhi,Tupiza,Tabouda,Danderyd,El Corozo,Pantin,Nadvoitsy,Imsil,Oslo,Saint-Jouan-des-Guérets,Gunjur Kuta,Somba,Abha,Xianren,Guangping,Sóc Sơn,Choya,San José,Magisterial,Köping,Évry,Waina,Pu’an,Spandaryan,Mumen,Xindian,Lancang,Amarillo,Quỳnh Côi,Anningqu,Vodnjan,Roma,Pont-Audemer,Miribel,Omutninsk
+#######################################
+Sunny city advice 2
+Name : Renie
+City : Hamburg
+Country : DE
+Gross Annual Income : 90204.21 EUR
+Gross Annual Income in EUR : 90204.21 EUR
+Weekly Income in EUR : 1735 EUR
+Person is not in sunny city
+Recommended sunny city/cities: 
+Lavaltrie,Limoges,La Calera,Veinticinco de Mayo,Guamo,Miaoxi,Saint-Égrève,Vanves,Beicheng,Kose,Joaçaba,Xiaoying,Stockholm,Peresvet,Pueblo Nuevo,Sixi,Xicun,Longju,Nagasari,Kirkuk,Mhlume,Stari Grad,Herrera,Dinskaya,Montepuez,Washington,Dayan,Greensboro,Yangdu,Syamzha,Temirtau,Santa Maria,Sergokala,Kingscourt,Donskoy,Velikovechnoye,Oslo,Beicheng,Makata,Ostrov,Le Raincy,Timiryazevskiy,Stavanger,Bao’an,Steinkjer,Huangfang,Licun,Berezanka,Chipinge,Troitskoye,Xinzhan,Saint Joseph,Al Mushannaf,Kwekwe,Saint-Laurent-Blangy,Waishan,Erdaobaihe,Qiaotou,Longwy,Linxi,Núi Đối,Sicheng,El Copey,Toul,Yaozhuang,Mayakovski,Florencio Sánchez,Francisco Villa,Alanga,Gardanne,Saint-Augustin,Sel’tso,Ludvika,Mazongshan,Shibganj,Manyana,Massy,La Poma,Wuyang,Göteborg,El Soberbio,Changshou,Santa Maria,Huarancante,Estância Velha,Newbiggin,Gjirokastër,Yenangyaung,Aibura,Dingli,Pleshanovo,Västerås,Tangnan,Chengjiang,Valence,Châteaurenard,Nogent-sur-Marne,Shangqing,Oravais,Orlu,Cadiz,Landivisiau,Huashu,Södertälje,Dallas,Saint-Étienne-du-Rouvray,General Elizardo Aquino,Sydney,Mengxi,Harrisburg,Bernal,Halden,Évreux,Porecatu,Gravataí,Laramate,Yutou,El Alto,Schaan,Luotaping,Xinglong,Artashat,Ambato Boeny,Yafran,Khoa,Uppsala,Binzhou,Yangping,Orlando,High Point,Hondo,Temirtau,Shangde,Heishan,Baita,Melville,Peabiru,Wichita,Wilmington,Naji,Ramana,Bobigny,Öjebyn,Jianshan,Aberdeen,Blantyre,San Bautista,Verrettes,Naranjal,Vryburg,Daishan,Srinjine,Kinh Môn,Ostrov,Zhukovka,Baima,Jindong,Volzhsk,Konstantinovskoye,Garibaldi,Strasbourg,Kimry,Richard-Toll,Puutuga,Liuzhi,Tupiza,Tabouda,Danderyd,El Corozo,Pantin,Nadvoitsy,Imsil,Oslo,Saint-Jouan-des-Guérets,Gunjur Kuta,Somba,Abha,Xianren,Guangping,Sóc Sơn,Choya,San José,Magisterial,Köping,Évry,Waina,Pu’an,Spandaryan,Mumen,Xindian,Lancang,Amarillo,Quỳnh Côi,Anningqu,Vodnjan,Roma,Pont-Audemer,Miribel,Omutninsk
+#######################################
+Sunny city advice 3
+Name : Garald
+City : Lavaltrie
+Country : CA
+Gross Annual Income : 98290.36 CAD
+Gross Annual Income in EUR : 65314.3 EUR
+Weekly Income in EUR : 1256 EUR
+Person is not in sunny city
+Recommended sunny city/cities: 
+Lavaltrie,Limoges,La Calera,Veinticinco de Mayo,Guamo,Miaoxi,Saint-Égrève,Vanves,Beicheng,Kose,Joaçaba,Xiaoying,Stockholm,Peresvet,Pueblo Nuevo,Sixi,Xicun,Longju,Nagasari,Kirkuk,Mhlume,Stari Grad,Herrera,Dinskaya,Montepuez,Washington,Dayan,Greensboro,Yangdu,Syamzha,Temirtau,Santa Maria,Sergokala,Kingscourt,Donskoy,Velikovechnoye,Oslo,Beicheng,Makata,Ostrov,Le Raincy,Timiryazevskiy,Stavanger,Bao’an,Steinkjer,Huangfang,Licun,Berezanka,Chipinge,Troitskoye,Xinzhan,Saint Joseph,Al Mushannaf,Kwekwe,Saint-Laurent-Blangy,Waishan,Erdaobaihe,Qiaotou,Longwy,Linxi,Núi Đối,Sicheng,El Copey,Toul,Yaozhuang,Mayakovski,Florencio Sánchez,Francisco Villa,Alanga,Gardanne,Saint-Augustin,Sel’tso,Ludvika,Mazongshan,Shibganj,Manyana,Massy,La Poma,Wuyang,Göteborg,El Soberbio,Changshou,Santa Maria,Huarancante,Estância Velha,Newbiggin,Gjirokastër,Yenangyaung,Aibura,Dingli,Pleshanovo,Västerås,Tangnan,Chengjiang,Valence,Châteaurenard,Nogent-sur-Marne,Shangqing,Oravais,Orlu,Cadiz,Landivisiau,Huashu,Södertälje,Dallas,Saint-Étienne-du-Rouvray,General Elizardo Aquino,Sydney,Mengxi,Harrisburg,Bernal,Halden,Évreux,Porecatu,Gravataí,Laramate,Yutou,El Alto,Schaan,Luotaping,Xinglong,Artashat,Ambato Boeny,Yafran,Khoa,Uppsala,Binzhou,Yangping,Orlando,High Point,Hondo,Temirtau,Shangde,Heishan,Baita,Melville,Peabiru,Wichita,Wilmington,Naji,Ramana,Bobigny,Öjebyn,Jianshan,Aberdeen,Blantyre,San Bautista,Verrettes,Naranjal,Vryburg,Daishan,Srinjine,Kinh Môn,Ostrov,Zhukovka,Baima,Jindong,Volzhsk,Konstantinovskoye,Garibaldi,Strasbourg,Kimry,Richard-Toll,Puutuga,Liuzhi,Tupiza,Tabouda,Danderyd,El Corozo,Pantin,Nadvoitsy,Imsil,Oslo,Saint-Jouan-des-Guérets,Gunjur Kuta,Somba,Abha,Xianren,Guangping,Sóc Sơn,Choya,San José,Magisterial,Köping,Évry,Waina,Pu’an,Spandaryan,Mumen,Xindian,Lancang,Amarillo,Quỳnh Côi,Anningqu,Vodnjan,Roma,Pont-Audemer,Miribel,Omutninsk
+#######################################
+Sunny city advice 4
+Name : Karmen
+City : Sandviken
+Country : SE
+Gross Annual Income : 13293.64 SEK
+Gross Annual Income in EUR : 1233.276 EUR
+Weekly Income in EUR : 24 EUR
+Person is not in sunny city
+Recommended sunny city/cities: 
+Lavaltrie,Limoges,La Calera,Veinticinco de Mayo,Guamo,Miaoxi,Saint-Égrève,Vanves,Beicheng,Kose,Joaçaba,Xiaoying,Stockholm,Peresvet,Pueblo Nuevo,Sixi,Xicun,Longju,Nagasari,Kirkuk,Mhlume,Stari Grad,Herrera,Dinskaya,Montepuez,Washington,Dayan,Greensboro,Yangdu,Syamzha,Temirtau,Santa Maria,Sergokala,Kingscourt,Donskoy,Velikovechnoye,Oslo,Beicheng,Makata,Ostrov,Le Raincy,Timiryazevskiy,Stavanger,Bao’an,Steinkjer,Huangfang,Licun,Berezanka,Chipinge,Troitskoye,Xinzhan,Saint Joseph,Al Mushannaf,Kwekwe,Saint-Laurent-Blangy,Waishan,Erdaobaihe,Qiaotou,Longwy,Linxi,Núi Đối,Sicheng,El Copey,Toul,Yaozhuang,Mayakovski,Florencio Sánchez,Francisco Villa,Alanga,Gardanne,Saint-Augustin,Sel’tso,Ludvika,Mazongshan,Shibganj,Manyana,Massy,La Poma,Wuyang,Göteborg,El Soberbio,Changshou,Santa Maria,Huarancante,Estância Velha,Newbiggin,Gjirokastër,Yenangyaung,Aibura,Dingli,Pleshanovo,Västerås,Tangnan,Chengjiang,Valence,Châteaurenard,Nogent-sur-Marne,Shangqing,Oravais,Orlu,Cadiz,Landivisiau,Huashu,Södertälje,Dallas,Saint-Étienne-du-Rouvray,General Elizardo Aquino,Sydney,Mengxi,Harrisburg,Bernal,Halden,Évreux,Porecatu,Gravataí,Laramate,Yutou,El Alto,Schaan,Luotaping,Xinglong,Artashat,Ambato Boeny,Yafran,Khoa,Uppsala,Binzhou,Yangping,Orlando,High Point,Hondo,Temirtau,Shangde,Heishan,Baita,Melville,Peabiru,Wichita,Wilmington,Naji,Ramana,Bobigny,Öjebyn,Jianshan,Aberdeen,Blantyre,San Bautista,Verrettes,Naranjal,Vryburg,Daishan,Srinjine,Kinh Môn,Ostrov,Zhukovka,Baima,Jindong,Volzhsk,Konstantinovskoye,Garibaldi,Strasbourg,Kimry,Richard-Toll,Puutuga,Liuzhi,Tupiza,Tabouda,Danderyd,El Corozo,Pantin,Nadvoitsy,Imsil,Oslo,Saint-Jouan-des-Guérets,Gunjur Kuta,Somba,Abha,Xianren,Guangping,Sóc Sơn,Choya,San José,Magisterial,Köping,Évry,Waina,Pu’an,Spandaryan,Mumen,Xindian,Lancang,Amarillo,Quỳnh Côi,Anningqu,Vodnjan,Roma,Pont-Audemer,Miribel,Omutninsk
+#######################################
+Sunny city advice 5
+Name : Murdock
+City : Byera Village
+Country : VC
+Gross Annual Income : 31563.91 XCD
+Gross Annual Income in EUR : 10449.25 EUR
+Weekly Income in EUR : 201 EUR
+Person is not in sunny city
+Recommended sunny city/cities: 
+Lavaltrie,Limoges,La Calera,Veinticinco de Mayo,Guamo,Miaoxi,Saint-Égrève,Vanves,Beicheng,Kose,Joaçaba,Xiaoying,Stockholm,Peresvet,Pueblo Nuevo,Sixi,Xicun,Longju,Nagasari,Kirkuk,Mhlume,Stari Grad,Herrera,Dinskaya,Montepuez,Washington,Dayan,Greensboro,Yangdu,Syamzha,Temirtau,Santa Maria,Sergokala,Kingscourt,Donskoy,Velikovechnoye,Oslo,Beicheng,Makata,Ostrov,Le Raincy,Timiryazevskiy,Stavanger,Bao’an,Steinkjer,Huangfang,Licun,Berezanka,Chipinge,Troitskoye,Xinzhan,Saint Joseph,Al Mushannaf,Kwekwe,Saint-Laurent-Blangy,Waishan,Erdaobaihe,Qiaotou,Longwy,Linxi,Núi Đối,Sicheng,El Copey,Toul,Yaozhuang,Mayakovski,Florencio Sánchez,Francisco Villa,Alanga,Gardanne,Saint-Augustin,Sel’tso,Ludvika,Mazongshan,Shibganj,Manyana,Massy,La Poma,Wuyang,Göteborg,El Soberbio,Changshou,Santa Maria,Huarancante,Estância Velha,Newbiggin,Gjirokastër,Yenangyaung,Aibura,Dingli,Pleshanovo,Västerås,Tangnan,Chengjiang,Valence,Châteaurenard,Nogent-sur-Marne,Shangqing,Oravais,Orlu,Cadiz,Landivisiau,Huashu,Södertälje,Dallas,Saint-Étienne-du-Rouvray,General Elizardo Aquino,Sydney,Mengxi,Harrisburg,Bernal,Halden,Évreux,Porecatu,Gravataí,Laramate,Yutou,El Alto,Schaan,Luotaping,Xinglong,Artashat,Ambato Boeny,Yafran,Khoa,Uppsala,Binzhou,Yangping,Orlando,High Point,Hondo,Temirtau,Shangde,Heishan,Baita,Melville,Peabiru,Wichita,Wilmington,Naji,Ramana,Bobigny,Öjebyn,Jianshan,Aberdeen,Blantyre,San Bautista,Verrettes,Naranjal,Vryburg,Daishan,Srinjine,Kinh Môn,Ostrov,Zhukovka,Baima,Jindong,Volzhsk,Konstantinovskoye,Garibaldi,Strasbourg,Kimry,Richard-Toll,Puutuga,Liuzhi,Tupiza,Tabouda,Danderyd,El Corozo,Pantin,Nadvoitsy,Imsil,Oslo,Saint-Jouan-des-Guérets,Gunjur Kuta,Somba,Abha,Xianren,Guangping,Sóc Sơn,Choya,San José,Magisterial,Köping,Évry,Waina,Pu’an,Spandaryan,Mumen,Xindian,Lancang,Amarillo,Quỳnh Côi,Anningqu,Vodnjan,Roma,Pont-Audemer,Miribel,Omutninsk
+#######################################
+Sunny city advice 6
+Name : Heath
+City : Umm Sa‘īd
+Country : QA
+Gross Annual Income : 97155.82 QAR
+Gross Annual Income in EUR : 23867.07 EUR
+Weekly Income in EUR : 459 EUR

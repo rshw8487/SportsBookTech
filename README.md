@@ -41,3 +41,10 @@ The goal of stress test is exactly that, to find the load volume where the syste
 So we need to find the system breaking point.
 As you may check openweathermap API breaks after 60 calls because of Free Plan limitation.
 And in the and count of advices of SunnyWetherAdvicer get only 5 cases (src/main/resources/recommendedSunnyCitiesList.txt)
+
+3.Scalability Testing
+
+For example, a larger number of incoming requests should cause proportial increase in the response time.
+In the end we can use metrics and check if the system performance changes appropriately to the load.
+Test could be runned from src/test/java/SoupUiTest.java
+Test results would be stored to SportBookTechQATask-soapui-project.xml
